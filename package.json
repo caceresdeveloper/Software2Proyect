@@ -4,6 +4,7 @@
   "description": "Proyecto Emprendedores para universidad pedagogica y tecnologica de colombia uptc",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
