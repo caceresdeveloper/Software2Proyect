@@ -5,3 +5,7 @@ es necesario tener actualizado e instalado node.js y verificar que este instalad
 para la ejecucion del proyecto npm run dev 
 
 ![Alt text](image.png)
+
+# Bootstrap
+
+esta pagina se realiza instalacion de bootstrap- para los patrones de diseño 
